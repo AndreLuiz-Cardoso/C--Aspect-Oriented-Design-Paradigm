@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWbPa/fvfb7uzbhQr8vtA5vfxskZ5NOSm/h6H8XUJ3BTsn5smU/foNYiu0FRd1OinPelHDqcHjiSERQMr46LTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\GitHub\\C#-Aspect-Oriented Design Paradigm\\ProjectInC#\\Projec c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\postsharp\\2024.0.5\\postsharp.2024.0.5.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\postsharp.redist\\2024.0.5\\postsharp.redist.2024.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

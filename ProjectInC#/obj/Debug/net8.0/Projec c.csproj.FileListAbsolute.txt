@@ -1,0 +1,5 @@
+C:\Users\Acer\Projec c\obj\Debug\net8.0\Projec c.csproj.AssemblyReference.cache
+C:\Users\Acer\Projec c\obj\Debug\net8.0\Projec c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Projec c\obj\Debug\net8.0\Projec c.AssemblyInfoInputs.cache
+C:\Users\Acer\Projec c\obj\Debug\net8.0\Projec c.AssemblyInfo.cs
+C:\Users\Acer\Projec c\obj\Debug\net8.0\Projec c.csproj.CoreCompileInputs.cache
